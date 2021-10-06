@@ -2,3 +2,8 @@ Instructions for deploying this site
 ------------------------------------
 Lorem ipsum... 
 Ipsum lorem?
+
+Here are changes
+
+troubheshooting
+---------------
