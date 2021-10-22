@@ -1,4 +1,4 @@
-name: "Lint PR"
+name: "Lint PR V0.1.0"
 on:
   pull_request:
     types:
